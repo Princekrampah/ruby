@@ -1,4 +1,4 @@
-# Basics Of Rudy Programming Language
+# Basics Of Ruby Programming Language
 
 ## Installation and setup on linux
 
@@ -11,7 +11,7 @@ puts "Hello world"
 print "Hello world"
 ```
 
-### Difference between `puts` and ``print`
+### Difference between `puts` and ``print``
 
 ## Part Two: User Inputs
 
