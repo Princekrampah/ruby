@@ -29,5 +29,5 @@ end
 
 person1 = Person.new("John Doe", 27, 6)
 
-puts person1.getAge()
+puts person1.getName()
 person1.detail()
